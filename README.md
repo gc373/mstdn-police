@@ -3,6 +3,7 @@
 ### トークンの取得
 
 `$ git clone https://github.com/gc373/mstdn-police.git`  
+`$ cd mstdn-police/`  
 `$ npm i`  
 `$ api_url={your url(like "japaon.cf")] nodeoauth.js`  
 `// api_url=japaon.cf node oauth.js`
