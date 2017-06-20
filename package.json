@@ -1,0 +1,25 @@
+{
+  "name": "mstdn-police",
+  "version": "1.0.0",
+  "description": "",
+  "main": "police.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gc373/mstdn-police.git"
+  },
+  "keywords": [
+    "mastodon"
+  ],
+  "author": "gc373",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gc373/mstdn-police/issues"
+  },
+  "homepage": "https://github.com/gc373/mstdn-police#readme",
+  "dependencies": {
+    "mastodon-api": "^1.3.0"
+  }
+}
